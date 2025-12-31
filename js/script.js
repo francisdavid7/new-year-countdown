@@ -32,6 +32,7 @@ const countDown = () => {
     if (!endAnimation) {
       document.body.classList.add("active");
       endBtn.style.display = "block";
+      yearEl.classList.add("color");
     }
   }
 

@@ -123,3 +123,7 @@ button {
   cursor: pointer;
   display: none;
 }
+
+h1.color {
+  color: var(--redColor);
+}
